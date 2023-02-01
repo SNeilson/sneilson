@@ -2,7 +2,7 @@
 
 ### :octocat:  &nbsp;About Me
 
-An accomplished and high-achieving Senior Full Stack web developer with experience in creating a range of websites in various markets from a global B2C consumer electronics brand to B2B sites in a range of industries from IoT monitoring in food retail, security, ATM infrastructure or one of the world's largest IP licensing companies. 
+I'm an experienced and accomplished Senior Full Stack developer with a proven history of creating a range of websites  in various markets from a global B2C consumer electronics brand to B2B sites in a range of industries from IoT monitoring in food retail, energy, security, ATM infrastructure or one of the world's largest IP licensing companies..
 
 Away from that I get just as much joy from working on a number of sites for local community groups and businesses on a freelance basis. 
 
